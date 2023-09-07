@@ -10,10 +10,3 @@ Running instructions: No particular running instructions
 
 Notes and Assumptions:
     Acknowledgements:
-
-# NOTE: Do NOT changes lines 1 to 4, *except* to fill in the "xyz" information
-
-# Fill in with any other information required in the
-#	Code Submissions Guideline (CSG).
-# If there is a difference between the format above and the CSG,
-#	then please use the format above.
