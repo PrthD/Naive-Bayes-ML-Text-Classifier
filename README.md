@@ -46,11 +46,3 @@ TargetWords = [
     '-40', 'jackets', 'wish', 'fog', 'pretty', 'summer'
 ]
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to Paul Lu for his contributions to this project.
