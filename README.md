@@ -17,12 +17,12 @@ Ensure that Python 3 is installed on your system. No additional external depende
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/naive-bayes-ml-text-classifier.git
+    git clone https://github.com/your-username/Naive-Bayes-ML-Text-Classifier.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd naive-bayes-ml-text-classifier
+    cd src
     ```
 
 ## Usage
