@@ -26,7 +26,7 @@ Ensure that **Python 3** is installed on your system. No additional external dep
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Naive-Bayes-ML-Text-Classifier.git
+   git clone https://github.com/PrthD/Naive-Bayes-ML-Text-Classifier.git
    ```
 
 2. **Navigate to the `src/` directory**:
