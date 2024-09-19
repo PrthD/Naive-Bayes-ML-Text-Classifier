@@ -11,6 +11,14 @@ A Python-based machine learning text classifier that uses the **Naive Bayes** al
 - **Target Word Matching**: Analyzes input text to classify it based on predefined target words, with a focus on weather, seasons, and environmental-related themes.
 - **Error Handling**: Includes robust error handling for file input errors (e.g., missing files, OS-related issues).
 
+## Project Structure
+
+- **/src/**:
+  - `ooclassifier.py`: The main Python script containing the Naive Bayes classifier implementation.
+- **/src/**:
+  - `example_input.txt`: A sample input text file that demonstrates how the classifier works.
+- `README.md`: Project documentation.
+
 ## Installation
 
 Ensure that **Python 3** is installed on your system. No additional external dependencies are required for this project.
@@ -58,9 +66,3 @@ TargetWords = [
     '-40', 'jackets', 'wish', 'fog', 'pretty', 'summer'
 ]
 ```
-
-## Repository File Structure
-
-- **src/ooclassifier.py**: The main Python script containing the Naive Bayes classifier implementation.
-- **src/example_input.txt**: A sample input text file that demonstrates how the classifier works.
-- **README.md**: Documentation that explains the project's usage, features, and installation.
