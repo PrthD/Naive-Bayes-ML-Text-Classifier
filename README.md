@@ -15,7 +15,6 @@ A Python-based machine learning text classifier that uses the **Naive Bayes** al
 
 - **/src/**:
   - `ooclassifier.py`: The main Python script containing the Naive Bayes classifier implementation.
-- **/src/**:
   - `example_input.txt`: A sample input text file that demonstrates how the classifier works.
 - `README.md`: Project documentation.
 
