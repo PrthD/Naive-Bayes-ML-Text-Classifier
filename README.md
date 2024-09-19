@@ -63,5 +63,4 @@ TargetWords = [
 
 - **src/ooclassifier.py**: The main Python script containing the Naive Bayes classifier implementation.
 - **src/example_input.txt**: A sample input text file that demonstrates how the classifier works.
-- **requirements.txt** (Optional): Placeholder for listing external dependencies (currently not required).
 - **README.md**: Documentation that explains the project's usage, features, and installation.
