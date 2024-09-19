@@ -65,4 +65,4 @@ Make sure the following files are included in your repository:
 
 1. **src/ooclassifier.py**: The main Python script containing the Naive Bayes classifier implementation.
 2. **requirements.txt** (Optional): If the project ever requires external dependencies, this file should list the required packages. For now, it may not be necessary since no additional dependencies are specified.
-3. **src/example_input.txt**: An optional example text file that users can run to see how the classifier works.
+3. **src/example_input.txt**: An example text file that users can run to see how the classifier works.
